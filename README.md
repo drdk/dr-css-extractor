@@ -378,7 +378,7 @@ All loading of assets will be loaded relative to the _fake_ url - meaning they n
 ## Changelog
 
 ### next
-
+* Fixed height behavior
 * Ported to Puppeteer
 * Fixed first css selector being ignored when the css file starts with a @charset declaration.
 * `bin` config added to package.json.
